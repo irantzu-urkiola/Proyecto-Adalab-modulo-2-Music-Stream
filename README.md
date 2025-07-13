@@ -78,7 +78,7 @@ Consultas desarrolladas para responder a preguntas clave:
 - **Aida Bau**
 - **Inés García**
 - **Aura Candela**
-- **Irantzu Urkiola** 
+- **Irantzu Urkiola**
 
 ## 📚 Curso
 
