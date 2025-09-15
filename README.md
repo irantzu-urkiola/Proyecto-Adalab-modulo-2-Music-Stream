@@ -73,6 +73,9 @@ Consultas desarrolladas para responder a preguntas clave:
 - Daily meetings, sprint reviews y retrospectives.
 - Documentación continua en GitHub.
 
+## Enlace presentación CANVA
+  https://www.canva.com/design/DAGmFz2mPeg/DyXUBvJSlZWHcoChIhh2-w/edit?utm_content=DAGmFz2mPeg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## 👩‍💻 Equipo de Desarrollo
 
 - **Aida Bau**
